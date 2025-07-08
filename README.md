@@ -28,6 +28,7 @@ It includes specifications, test plans, scenarios, cases, executions, RTM, and t
 | BugReport(POS REACT).xlsx | Central log of found defects: ID, description, steps to reproduce, severity, priority, status, and space for evidence. |
 | Quality Summary Report – POS REACT (v1).PDF | Executive quality report with final metrics, severity distribution, risks, recommendations, and Go/No-Go decision. |
 
-##Contributing 🤝
+
+## Contributing 🤝
 This project is currently maintained by a single QA engineer (Jovan).
 Pull requests that correct typos or update documents are welcome. Please ensure you follow the naming format and commit convention (docs: / fix: / feat:).
