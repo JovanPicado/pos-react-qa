@@ -27,3 +27,7 @@ It includes specifications, test plans, scenarios, cases, executions, RTM, and t
 | RTM(POS REACT).xlsx | This Excel file probably contains the Requirement Traceability Matrix document related to web registration functionality in OpenCart. It likely includes requirement ID, requirement description, test scenario ID and description, test cases, test result, defect ID, and also the summary report. |
 | BugReport(POS REACT).xlsx | Central log of found defects: ID, description, steps to reproduce, severity, priority, status, and space for evidence. |
 | Quality Summary Report – POS REACT (v1).PDF | Executive quality report with final metrics, severity distribution, risks, recommendations, and Go/No-Go decision. |
+
+##Contributing 🤝
+This project is currently maintained by a single QA engineer (Jovan).
+Pull requests that correct typos or update documents are welcome. Please ensure you follow the naming format and commit convention (docs: / fix: / feat:).
